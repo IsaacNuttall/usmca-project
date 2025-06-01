@@ -73,7 +73,7 @@ def display_section(title, image_file, *explanation_parts):
     image_path = os.path.join("images", image_file)
     if os.path.exists(image_path):
         image = Image.open(image_path)
-        st.image(image, caption=title, use_column_width=True)
+        st.image(image, caption=title, use_container_width=True)
     else:
         st.warning(f"Image not found: {image_path}")
     
