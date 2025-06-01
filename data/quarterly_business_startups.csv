@@ -1,0 +1,1001 @@
+state_name,spliced_formations_per_quarter,year
+alabama,61.75,2005
+alabama,59.0,2006
+alabama,53.25,2007
+alabama,41.75,2008
+alabama,38.0,2009
+alabama,39.0,2010
+alabama,37.875,2011
+alabama,36.625,2012
+alabama,35.75,2013
+alabama,37.0,2014
+alabama,38.125,2015
+alabama,37.5,2016
+alabama,38.125,2017
+alabama,38.875,2018
+alabama,38.375,2019
+alabama,41.25,2020
+alabama,56.875,2021
+alabama,55.0,2022
+alabama,54.75,2023
+alabama,50.5,2024
+arkansas,41.125,2005
+arkansas,39.375,2006
+arkansas,36.75,2007
+arkansas,29.5,2008
+arkansas,27.375,2009
+arkansas,27.375,2010
+arkansas,27.25,2011
+arkansas,26.75,2012
+arkansas,26.5,2013
+arkansas,27.125,2014
+arkansas,28.25,2015
+arkansas,27.625,2016
+arkansas,28.875,2017
+arkansas,29.25,2018
+arkansas,27.875,2019
+arkansas,28.125,2020
+arkansas,38.375,2021
+arkansas,35.5,2022
+arkansas,35.5,2023
+arkansas,32.625,2024
+colorado,120.75,2005
+colorado,114.375,2006
+colorado,105.25,2007
+colorado,86.125,2008
+colorado,83.875,2009
+colorado,79.75,2010
+colorado,76.875,2011
+colorado,78.875,2012
+colorado,81.875,2013
+colorado,88.875,2014
+colorado,91.5,2015
+colorado,90.0,2016
+colorado,91.0,2017
+colorado,94.875,2018
+colorado,86.75,2019
+colorado,84.375,2020
+colorado,99.875,2021
+colorado,99.5,2022
+colorado,105.625,2023
+colorado,102.375,2024
+delaware,15.875,2005
+delaware,14.25,2006
+delaware,14.75,2007
+delaware,11.5,2008
+delaware,11.0,2009
+delaware,12.0,2010
+delaware,12.5,2011
+delaware,12.75,2012
+delaware,12.5,2013
+delaware,13.625,2014
+delaware,14.5,2015
+delaware,15.125,2016
+delaware,15.625,2017
+delaware,15.625,2018
+delaware,16.0,2019
+delaware,17.25,2020
+delaware,26.0,2021
+delaware,26.5,2022
+delaware,31.875,2023
+delaware,34.875,2024
+hawaii,17.375,2005
+hawaii,17.25,2006
+hawaii,15.0,2007
+hawaii,12.5,2008
+hawaii,11.0,2009
+hawaii,10.75,2010
+hawaii,10.875,2011
+hawaii,10.5,2012
+hawaii,11.125,2013
+hawaii,11.25,2014
+hawaii,11.5,2015
+hawaii,11.625,2016
+hawaii,11.625,2017
+hawaii,12.25,2018
+hawaii,10.875,2019
+hawaii,10.125,2020
+hawaii,13.25,2021
+hawaii,12.5,2022
+hawaii,12.25,2023
+hawaii,12.0,2024
+iowa,42.875,2005
+iowa,37.625,2006
+iowa,34.75,2007
+iowa,30.25,2008
+iowa,27.5,2009
+iowa,28.375,2010
+iowa,27.25,2011
+iowa,27.125,2012
+iowa,26.25,2013
+iowa,25.875,2014
+iowa,28.125,2015
+iowa,28.25,2016
+iowa,30.25,2017
+iowa,30.375,2018
+iowa,27.375,2019
+iowa,26.5,2020
+iowa,34.75,2021
+iowa,33.625,2022
+iowa,35.25,2023
+iowa,34.375,2024
+kansas,44.75,2005
+kansas,39.75,2006
+kansas,36.75,2007
+kansas,31.375,2008
+kansas,28.875,2009
+kansas,29.125,2010
+kansas,29.625,2011
+kansas,28.0,2012
+kansas,28.875,2013
+kansas,28.5,2014
+kansas,30.375,2015
+kansas,28.625,2016
+kansas,27.5,2017
+kansas,29.125,2018
+kansas,27.0,2019
+kansas,27.125,2020
+kansas,33.5,2021
+kansas,34.25,2022
+kansas,33.625,2023
+kansas,33.0,2024
+louisiana,57.125,2005
+louisiana,59.75,2006
+louisiana,51.875,2007
+louisiana,44.375,2008
+louisiana,40.125,2009
+louisiana,40.75,2010
+louisiana,42.25,2011
+louisiana,39.75,2012
+louisiana,39.125,2013
+louisiana,39.75,2014
+louisiana,40.0,2015
+louisiana,38.125,2016
+louisiana,40.375,2017
+louisiana,39.875,2018
+louisiana,36.5,2019
+louisiana,37.625,2020
+louisiana,50.875,2021
+louisiana,45.375,2022
+louisiana,41.5,2023
+louisiana,37.625,2024
+maine,25.5,2005
+maine,23.25,2006
+maine,20.875,2007
+maine,16.25,2008
+maine,13.625,2009
+maine,16.625,2010
+maine,14.5,2011
+maine,14.625,2012
+maine,15.875,2013
+maine,15.0,2014
+maine,16.75,2015
+maine,16.125,2016
+maine,16.875,2017
+maine,17.0,2018
+maine,16.875,2019
+maine,16.5,2020
+maine,21.25,2021
+maine,20.375,2022
+maine,20.875,2023
+maine,20.875,2024
+massachusetts,98.125,2005
+massachusetts,87.75,2006
+massachusetts,80.0,2007
+massachusetts,69.125,2008
+massachusetts,66.75,2009
+massachusetts,69.375,2010
+massachusetts,68.375,2011
+massachusetts,71.875,2012
+massachusetts,71.875,2013
+massachusetts,72.375,2014
+massachusetts,78.125,2015
+massachusetts,77.0,2016
+massachusetts,78.875,2017
+massachusetts,82.125,2018
+massachusetts,76.875,2019
+massachusetts,73.0,2020
+massachusetts,92.375,2021
+massachusetts,90.125,2022
+massachusetts,92.75,2023
+massachusetts,93.125,2024
+minnesota,91.375,2005
+minnesota,78.5,2006
+minnesota,72.5,2007
+minnesota,60.0,2008
+minnesota,59.375,2009
+minnesota,54.875,2010
+minnesota,52.625,2011
+minnesota,54.0,2012
+minnesota,54.625,2013
+minnesota,55.125,2014
+minnesota,57.625,2015
+minnesota,56.25,2016
+minnesota,56.125,2017
+minnesota,55.25,2018
+minnesota,55.75,2019
+minnesota,51.125,2020
+minnesota,67.875,2021
+minnesota,63.75,2022
+minnesota,67.25,2023
+minnesota,67.0,2024
+missouri,98.5,2005
+missouri,94.875,2006
+missouri,77.5,2007
+missouri,65.25,2008
+missouri,62.5,2009
+missouri,62.375,2010
+missouri,63.125,2011
+missouri,64.875,2012
+missouri,66.75,2013
+missouri,69.5,2014
+missouri,71.25,2015
+missouri,69.625,2016
+missouri,62.5,2017
+missouri,67.5,2018
+missouri,64.875,2019
+missouri,62.75,2020
+missouri,80.75,2021
+missouri,74.625,2022
+missouri,78.5,2023
+missouri,74.375,2024
+montana,27.75,2005
+montana,26.375,2006
+montana,23.375,2007
+montana,19.375,2008
+montana,15.25,2009
+montana,15.375,2010
+montana,16.5,2011
+montana,16.0,2012
+montana,16.125,2013
+montana,17.375,2014
+montana,17.875,2015
+montana,17.125,2016
+montana,17.5,2017
+montana,19.625,2018
+montana,18.625,2019
+montana,18.5,2020
+montana,24.375,2021
+montana,24.875,2022
+montana,25.125,2023
+montana,27.125,2024
+nebraska,28.625,2005
+nebraska,26.75,2006
+nebraska,24.375,2007
+nebraska,21.125,2008
+nebraska,20.625,2009
+nebraska,20.0,2010
+nebraska,20.75,2011
+nebraska,21.25,2012
+nebraska,20.25,2013
+nebraska,20.875,2014
+nebraska,22.375,2015
+nebraska,22.375,2016
+nebraska,21.625,2017
+nebraska,21.875,2018
+nebraska,21.875,2019
+nebraska,20.375,2020
+nebraska,25.875,2021
+nebraska,26.5,2022
+nebraska,26.875,2023
+nebraska,26.25,2024
+nevada,61.25,2005
+nevada,55.625,2006
+nevada,49.875,2007
+nevada,40.375,2008
+nevada,37.125,2009
+nevada,39.25,2010
+nevada,38.875,2011
+nevada,40.125,2012
+nevada,42.125,2013
+nevada,41.75,2014
+nevada,42.875,2015
+nevada,40.0,2016
+nevada,42.625,2017
+nevada,45.5,2018
+nevada,44.75,2019
+nevada,46.75,2020
+nevada,62.75,2021
+nevada,58.125,2022
+nevada,61.125,2023
+nevada,58.5,2024
+new jersey,154.75,2005
+new jersey,143.5,2006
+new jersey,127.75,2007
+new jersey,106.5,2008
+new jersey,103.375,2009
+new jersey,107.75,2010
+new jersey,107.875,2011
+new jersey,106.125,2012
+new jersey,109.375,2013
+new jersey,105.75,2014
+new jersey,106.875,2015
+new jersey,105.75,2016
+new jersey,105.375,2017
+new jersey,107.625,2018
+new jersey,100.375,2019
+new jersey,95.625,2020
+new jersey,127.375,2021
+new jersey,123.875,2022
+new jersey,124.375,2023
+new jersey,124.125,2024
+new mexico,29.75,2005
+new mexico,29.75,2006
+new mexico,25.625,2007
+new mexico,20.875,2008
+new mexico,17.5,2009
+new mexico,18.0,2010
+new mexico,18.125,2011
+new mexico,17.5,2012
+new mexico,16.25,2013
+new mexico,17.375,2014
+new mexico,15.625,2015
+new mexico,16.875,2016
+new mexico,18.0,2017
+new mexico,17.0,2018
+new mexico,16.375,2019
+new mexico,16.0,2020
+new mexico,20.875,2021
+new mexico,22.25,2022
+new mexico,23.125,2023
+new mexico,23.125,2024
+north carolina,147.75,2005
+north carolina,140.0,2006
+north carolina,126.875,2007
+north carolina,101.375,2008
+north carolina,96.375,2009
+north carolina,94.625,2010
+north carolina,91.75,2011
+north carolina,91.0,2012
+north carolina,94.625,2013
+north carolina,98.875,2014
+north carolina,105.875,2015
+north carolina,110.875,2016
+north carolina,114.25,2017
+north carolina,114.75,2018
+north carolina,113.5,2019
+north carolina,115.625,2020
+north carolina,160.75,2021
+north carolina,154.875,2022
+north carolina,158.375,2023
+north carolina,152.5,2024
+oklahoma,57.375,2005
+oklahoma,54.0,2006
+oklahoma,51.0,2007
+oklahoma,45.75,2008
+oklahoma,38.375,2009
+oklahoma,39.625,2010
+oklahoma,41.25,2011
+oklahoma,40.75,2012
+oklahoma,40.375,2013
+oklahoma,40.5,2014
+oklahoma,39.25,2015
+oklahoma,39.125,2016
+oklahoma,38.375,2017
+oklahoma,43.5,2018
+oklahoma,41.5,2019
+oklahoma,37.625,2020
+oklahoma,50.25,2021
+oklahoma,48.0,2022
+oklahoma,49.125,2023
+oklahoma,44.375,2024
+oregon,79.875,2005
+oregon,75.625,2006
+oregon,68.875,2007
+oregon,54.0,2008
+oregon,48.0,2009
+oregon,48.625,2010
+oregon,48.75,2011
+oregon,48.0,2012
+oregon,50.25,2013
+oregon,52.625,2014
+oregon,57.25,2015
+oregon,58.5,2016
+oregon,59.25,2017
+oregon,61.75,2018
+oregon,56.0,2019
+oregon,52.25,2020
+oregon,66.125,2021
+oregon,63.625,2022
+oregon,62.75,2023
+oregon,71.0,2024
+rhode island,17.625,2005
+rhode island,16.75,2006
+rhode island,13.625,2007
+rhode island,12.125,2008
+rhode island,10.875,2009
+rhode island,11.625,2010
+rhode island,11.875,2011
+rhode island,11.375,2012
+rhode island,10.125,2013
+rhode island,11.625,2014
+rhode island,12.0,2015
+rhode island,11.5,2016
+rhode island,12.25,2017
+rhode island,13.125,2018
+rhode island,11.875,2019
+rhode island,12.0,2020
+rhode island,15.75,2021
+rhode island,14.875,2022
+rhode island,15.0,2023
+rhode island,15.0,2024
+south carolina,71.125,2005
+south carolina,65.875,2006
+south carolina,58.625,2007
+south carolina,46.5,2008
+south carolina,41.25,2009
+south carolina,41.25,2010
+south carolina,40.875,2011
+south carolina,41.25,2012
+south carolina,43.375,2013
+south carolina,46.625,2014
+south carolina,47.375,2015
+south carolina,47.5,2016
+south carolina,51.75,2017
+south carolina,52.375,2018
+south carolina,50.625,2019
+south carolina,51.875,2020
+south carolina,75.875,2021
+south carolina,72.625,2022
+south carolina,72.375,2023
+south carolina,68.125,2024
+tennessee,79.75,2005
+tennessee,78.0,2006
+tennessee,71.875,2007
+tennessee,57.25,2008
+tennessee,54.125,2009
+tennessee,55.125,2010
+tennessee,53.5,2011
+tennessee,51.75,2012
+tennessee,53.0,2013
+tennessee,54.5,2014
+tennessee,55.375,2015
+tennessee,56.75,2016
+tennessee,58.25,2017
+tennessee,61.125,2018
+tennessee,60.5,2019
+tennessee,62.25,2020
+tennessee,83.625,2021
+tennessee,82.75,2022
+tennessee,84.25,2023
+tennessee,80.0,2024
+utah,66.0,2005
+utah,68.125,2006
+utah,60.75,2007
+utah,46.25,2008
+utah,41.75,2009
+utah,41.875,2010
+utah,42.75,2011
+utah,41.125,2012
+utah,42.5,2013
+utah,44.75,2014
+utah,46.875,2015
+utah,49.75,2016
+utah,53.125,2017
+utah,56.5,2018
+utah,56.25,2019
+utah,58.25,2020
+utah,69.125,2021
+utah,69.875,2022
+utah,74.625,2023
+utah,71.75,2024
+virginia,134.5,2005
+virginia,121.625,2006
+virginia,108.0,2007
+virginia,86.875,2008
+virginia,80.5,2009
+virginia,81.25,2010
+virginia,80.875,2011
+virginia,81.75,2012
+virginia,81.625,2013
+virginia,84.625,2014
+virginia,85.0,2015
+virginia,83.875,2016
+virginia,85.5,2017
+virginia,86.75,2018
+virginia,85.625,2019
+virginia,82.5,2020
+virginia,109.125,2021
+virginia,101.75,2022
+virginia,104.75,2023
+virginia,102.125,2024
+wisconsin,75.25,2005
+wisconsin,70.125,2006
+wisconsin,61.875,2007
+wisconsin,51.375,2008
+wisconsin,47.0,2009
+wisconsin,45.875,2010
+wisconsin,45.75,2011
+wisconsin,45.125,2012
+wisconsin,46.0,2013
+wisconsin,46.625,2014
+wisconsin,47.625,2015
+wisconsin,47.25,2016
+wisconsin,46.125,2017
+wisconsin,46.625,2018
+wisconsin,45.125,2019
+wisconsin,45.125,2020
+wisconsin,58.375,2021
+wisconsin,58.5,2022
+wisconsin,57.25,2023
+wisconsin,54.5,2024
+alaska,24.0,2005
+alaska,21.75,2006
+alaska,20.25,2007
+alaska,17.25,2008
+alaska,15.5,2009
+alaska,14.75,2010
+alaska,16.0,2011
+alaska,15.75,2012
+alaska,15.25,2013
+alaska,15.5,2014
+alaska,16.0,2015
+alaska,17.0,2016
+alaska,15.75,2017
+alaska,15.5,2018
+alaska,15.0,2019
+alaska,14.25,2020
+alaska,16.0,2021
+alaska,17.0,2022
+alaska,15.75,2023
+alaska,16.5,2024
+arizona,211.75,2005
+arizona,199.25,2006
+arizona,172.5,2007
+arizona,125.0,2008
+arizona,112.0,2009
+arizona,113.25,2010
+arizona,107.75,2011
+arizona,105.0,2012
+arizona,106.75,2013
+arizona,106.0,2014
+arizona,109.25,2015
+arizona,112.0,2016
+arizona,115.5,2017
+arizona,114.25,2018
+arizona,113.5,2019
+arizona,114.0,2020
+arizona,141.25,2021
+arizona,148.75,2022
+arizona,154.5,2023
+arizona,147.5,2024
+california,1210.25,2005
+california,1116.0,2006
+california,1020.5,2007
+california,842.0,2008
+california,749.5,2009
+california,758.5,2010
+california,792.25,2011
+california,799.5,2012
+california,843.5,2013
+california,837.25,2014
+california,891.25,2015
+california,871.75,2016
+california,868.0,2017
+california,962.75,2018
+california,906.75,2019
+california,850.5,2020
+california,973.75,2021
+california,968.75,2022
+california,1006.5,2023
+california,971.75,2024
+connecticut,81.75,2005
+connecticut,75.0,2006
+connecticut,67.75,2007
+connecticut,55.25,2008
+connecticut,51.75,2009
+connecticut,53.0,2010
+connecticut,54.5,2011
+connecticut,53.75,2012
+connecticut,51.0,2013
+connecticut,49.75,2014
+connecticut,52.5,2015
+connecticut,47.5,2016
+connecticut,49.75,2017
+connecticut,52.5,2018
+connecticut,50.0,2019
+connecticut,44.25,2020
+connecticut,54.75,2021
+connecticut,55.5,2022
+connecticut,57.5,2023
+connecticut,56.5,2024
+florida,784.5,2005
+florida,675.5,2006
+florida,582.5,2007
+florida,467.75,2008
+florida,459.0,2009
+florida,468.0,2010
+florida,478.25,2011
+florida,468.0,2012
+florida,486.75,2013
+florida,504.0,2014
+florida,522.25,2015
+florida,512.75,2016
+florida,513.0,2017
+florida,535.25,2018
+florida,501.75,2019
+florida,509.75,2020
+florida,603.25,2021
+florida,614.25,2022
+florida,629.0,2023
+florida,611.0,2024
+georgia,296.25,2005
+georgia,289.5,2006
+georgia,258.5,2007
+georgia,200.5,2008
+georgia,179.5,2009
+georgia,182.75,2010
+georgia,178.25,2011
+georgia,177.0,2012
+georgia,177.25,2013
+georgia,183.5,2014
+georgia,186.5,2015
+georgia,188.25,2016
+georgia,189.25,2017
+georgia,197.75,2018
+georgia,193.25,2019
+georgia,202.75,2020
+georgia,229.75,2021
+georgia,228.0,2022
+georgia,228.75,2023
+georgia,206.5,2024
+idaho,77.5,2005
+idaho,75.5,2006
+idaho,61.5,2007
+idaho,42.5,2008
+idaho,35.5,2009
+idaho,34.25,2010
+idaho,34.75,2011
+idaho,34.25,2012
+idaho,37.5,2013
+idaho,38.25,2014
+idaho,41.5,2015
+idaho,44.25,2016
+idaho,48.0,2017
+idaho,54.25,2018
+idaho,49.75,2019
+idaho,51.0,2020
+idaho,61.5,2021
+idaho,61.75,2022
+idaho,59.75,2023
+idaho,60.5,2024
+illinois,333.5,2005
+illinois,311.75,2006
+illinois,294.5,2007
+illinois,255.75,2008
+illinois,235.75,2009
+illinois,240.5,2010
+illinois,239.25,2011
+illinois,239.25,2012
+illinois,232.0,2013
+illinois,230.5,2014
+illinois,234.25,2015
+illinois,223.75,2016
+illinois,215.75,2017
+illinois,219.0,2018
+illinois,194.5,2019
+illinois,182.5,2020
+illinois,213.5,2021
+illinois,204.25,2022
+illinois,205.75,2023
+illinois,202.0,2024
+indiana,148.0,2005
+indiana,139.75,2006
+indiana,128.5,2007
+indiana,98.75,2008
+indiana,90.25,2009
+indiana,90.75,2010
+indiana,91.75,2011
+indiana,92.25,2012
+indiana,87.75,2013
+indiana,85.75,2014
+indiana,91.25,2015
+indiana,88.25,2016
+indiana,89.75,2017
+indiana,89.5,2018
+indiana,88.25,2019
+indiana,89.25,2020
+indiana,105.0,2021
+indiana,109.75,2022
+indiana,115.75,2023
+indiana,111.5,2024
+kentucky,91.25,2005
+kentucky,84.75,2006
+kentucky,77.75,2007
+kentucky,65.5,2008
+kentucky,63.0,2009
+kentucky,62.75,2010
+kentucky,62.25,2011
+kentucky,61.5,2012
+kentucky,65.25,2013
+kentucky,58.25,2014
+kentucky,60.25,2015
+kentucky,58.0,2016
+kentucky,58.0,2017
+kentucky,58.5,2018
+kentucky,54.5,2019
+kentucky,51.0,2020
+kentucky,59.5,2021
+kentucky,63.0,2022
+kentucky,69.75,2023
+kentucky,65.0,2024
+maryland,152.5,2005
+maryland,136.75,2006
+maryland,119.5,2007
+maryland,95.25,2008
+maryland,88.25,2009
+maryland,85.25,2010
+maryland,86.25,2011
+maryland,88.0,2012
+maryland,93.75,2013
+maryland,89.5,2014
+maryland,89.5,2015
+maryland,86.5,2016
+maryland,87.0,2017
+maryland,89.75,2018
+maryland,80.75,2019
+maryland,75.5,2020
+maryland,84.75,2021
+maryland,84.5,2022
+maryland,84.75,2023
+maryland,80.0,2024
+michigan,233.75,2005
+michigan,209.0,2006
+michigan,189.5,2007
+michigan,155.75,2008
+michigan,142.0,2009
+michigan,146.25,2010
+michigan,144.25,2011
+michigan,138.0,2012
+michigan,139.5,2013
+michigan,139.75,2014
+michigan,139.5,2015
+michigan,134.25,2016
+michigan,137.5,2017
+michigan,139.5,2018
+michigan,128.5,2019
+michigan,120.5,2020
+michigan,144.5,2021
+michigan,141.5,2022
+michigan,145.25,2023
+michigan,135.75,2024
+mississippi,64.25,2005
+mississippi,66.25,2006
+mississippi,58.0,2007
+mississippi,44.0,2008
+mississippi,39.5,2009
+mississippi,41.25,2010
+mississippi,39.75,2011
+mississippi,39.5,2012
+mississippi,39.75,2013
+mississippi,40.0,2014
+mississippi,39.25,2015
+mississippi,38.75,2016
+mississippi,37.25,2017
+mississippi,37.25,2018
+mississippi,35.75,2019
+mississippi,35.5,2020
+mississippi,41.25,2021
+mississippi,43.75,2022
+mississippi,41.25,2023
+mississippi,37.75,2024
+new hampshire,39.75,2005
+new hampshire,34.75,2006
+new hampshire,33.0,2007
+new hampshire,26.5,2008
+new hampshire,25.75,2009
+new hampshire,22.5,2010
+new hampshire,23.0,2011
+new hampshire,23.25,2012
+new hampshire,21.75,2013
+new hampshire,21.75,2014
+new hampshire,22.75,2015
+new hampshire,23.5,2016
+new hampshire,24.0,2017
+new hampshire,25.75,2018
+new hampshire,23.25,2019
+new hampshire,22.75,2020
+new hampshire,25.5,2021
+new hampshire,26.5,2022
+new hampshire,27.75,2023
+new hampshire,29.25,2024
+new york,591.75,2005
+new york,557.25,2006
+new york,534.5,2007
+new york,477.75,2008
+new york,474.0,2009
+new york,491.25,2010
+new york,488.75,2011
+new york,483.25,2012
+new york,493.25,2013
+new york,471.5,2014
+new york,489.5,2015
+new york,461.0,2016
+new york,456.0,2017
+new york,451.0,2018
+new york,409.75,2019
+new york,330.75,2020
+new york,411.75,2021
+new york,413.5,2022
+new york,435.25,2023
+new york,412.25,2024
+north dakota,21.25,2005
+north dakota,19.5,2006
+north dakota,18.5,2007
+north dakota,18.0,2008
+north dakota,15.0,2009
+north dakota,18.25,2010
+north dakota,25.5,2011
+north dakota,24.0,2012
+north dakota,20.5,2013
+north dakota,22.0,2014
+north dakota,17.0,2015
+north dakota,17.0,2016
+north dakota,15.75,2017
+north dakota,15.75,2018
+north dakota,15.5,2019
+north dakota,14.0,2020
+north dakota,17.5,2021
+north dakota,17.0,2022
+north dakota,18.0,2023
+north dakota,17.5,2024
+ohio,233.0,2005
+ohio,210.5,2006
+ohio,192.5,2007
+ohio,157.25,2008
+ohio,143.5,2009
+ohio,145.0,2010
+ohio,143.75,2011
+ohio,141.5,2012
+ohio,133.0,2013
+ohio,132.5,2014
+ohio,134.5,2015
+ohio,134.0,2016
+ohio,130.0,2017
+ohio,135.25,2018
+ohio,130.0,2019
+ohio,128.75,2020
+ohio,143.25,2021
+ohio,143.75,2022
+ohio,146.75,2023
+ohio,146.5,2024
+pennsylvania,272.5,2005
+pennsylvania,245.25,2006
+pennsylvania,235.0,2007
+pennsylvania,194.5,2008
+pennsylvania,174.25,2009
+pennsylvania,177.0,2010
+pennsylvania,176.75,2011
+pennsylvania,178.0,2012
+pennsylvania,173.25,2013
+pennsylvania,171.25,2014
+pennsylvania,176.5,2015
+pennsylvania,170.5,2016
+pennsylvania,171.75,2017
+pennsylvania,172.5,2018
+pennsylvania,162.75,2019
+pennsylvania,150.0,2020
+pennsylvania,177.25,2021
+pennsylvania,170.5,2022
+pennsylvania,184.0,2023
+pennsylvania,175.25,2024
+south dakota,29.75,2005
+south dakota,27.75,2006
+south dakota,25.0,2007
+south dakota,21.5,2008
+south dakota,18.75,2009
+south dakota,17.75,2010
+south dakota,19.5,2011
+south dakota,19.5,2012
+south dakota,19.25,2013
+south dakota,20.5,2014
+south dakota,22.25,2015
+south dakota,18.25,2016
+south dakota,18.75,2017
+south dakota,18.0,2018
+south dakota,18.25,2019
+south dakota,17.5,2020
+south dakota,22.5,2021
+south dakota,22.5,2022
+south dakota,23.25,2023
+south dakota,22.75,2024
+texas,601.0,2005
+texas,590.75,2006
+texas,574.75,2007
+texas,481.0,2008
+texas,454.25,2009
+texas,478.0,2010
+texas,498.5,2011
+texas,492.25,2012
+texas,503.0,2013
+texas,516.5,2014
+texas,524.25,2015
+texas,531.0,2016
+texas,543.0,2017
+texas,557.0,2018
+texas,531.0,2019
+texas,515.5,2020
+texas,624.0,2021
+texas,652.5,2022
+texas,668.0,2023
+texas,662.5,2024
+vermont,21.5,2005
+vermont,19.75,2006
+vermont,18.5,2007
+vermont,15.0,2008
+vermont,12.0,2009
+vermont,13.25,2010
+vermont,12.25,2011
+vermont,12.25,2012
+vermont,12.75,2013
+vermont,11.75,2014
+vermont,12.25,2015
+vermont,12.5,2016
+vermont,11.0,2017
+vermont,12.0,2018
+vermont,11.0,2019
+vermont,10.75,2020
+vermont,13.25,2021
+vermont,14.0,2022
+vermont,13.25,2023
+vermont,13.0,2024
+washington,253.5,2005
+washington,238.5,2006
+washington,228.0,2007
+washington,176.0,2008
+washington,149.25,2009
+washington,154.5,2010
+washington,155.0,2011
+washington,152.5,2012
+washington,154.5,2013
+washington,164.0,2014
+washington,172.75,2015
+washington,179.25,2016
+washington,184.5,2017
+washington,185.5,2018
+washington,168.25,2019
+washington,148.5,2020
+washington,179.25,2021
+washington,179.75,2022
+washington,180.75,2023
+washington,198.25,2024
+west virginia,38.75,2005
+west virginia,32.25,2006
+west virginia,28.5,2007
+west virginia,23.75,2008
+west virginia,20.75,2009
+west virginia,21.5,2010
+west virginia,21.5,2011
+west virginia,20.0,2012
+west virginia,19.5,2013
+west virginia,20.0,2014
+west virginia,20.25,2015
+west virginia,19.75,2016
+west virginia,19.0,2017
+west virginia,19.25,2018
+west virginia,16.75,2019
+west virginia,16.5,2020
+west virginia,19.0,2021
+west virginia,20.0,2022
+west virginia,20.25,2023
+west virginia,20.0,2024
+wyoming,27.75,2005
+wyoming,27.25,2006
+wyoming,25.5,2007
+wyoming,22.0,2008
+wyoming,17.25,2009
+wyoming,19.75,2010
+wyoming,19.75,2011
+wyoming,20.0,2012
+wyoming,17.25,2013
+wyoming,20.25,2014
+wyoming,19.75,2015
+wyoming,21.25,2016
+wyoming,21.0,2017
+wyoming,23.0,2018
+wyoming,22.0,2019
+wyoming,23.75,2020
+wyoming,26.25,2021
+wyoming,33.5,2022
+wyoming,44.25,2023
+wyoming,49.25,2024
